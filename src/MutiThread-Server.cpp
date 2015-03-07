@@ -27,7 +27,7 @@ struct ARG {
 	int connfd;
 	struct sockaddr_in client;
 };
-
+//instance
 int main() {
 
 	int listenfd, connectfd;
